@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://CarterT27.github.io/sitemap.xml
+Sitemap: https://cartert27.github.io/sitemap.xml
