@@ -1,14 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - CarterT27
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - CarterT27/dotfiles
+  - CarterT27/digital_garden
+  - CarterT27/tiktok_billboard_virality
+  - CarterT27/webreg_to_cal
+  - CarterT27/Sorting-Algorithm-Visualizer
+  - CarterT27/Terminal-Game-of-Life
+  - CarterT27/Terminal-Typing-Test
