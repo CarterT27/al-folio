@@ -8,4 +8,6 @@ category: unix
 related_publications: false
 ---
 
-Work in progress.
+- Build compute server for personal projects and Artificial Intelligence model training
+- Network using Tailscale for remote SSH access from anywhere
+- Run large language models locally using `Ollama` and `Open WebUI`
