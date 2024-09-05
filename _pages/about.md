@@ -20,4 +20,4 @@ Welcome to my personal website! It's currently a work in progress, but I plan to
 
 Currently I am a student at UC San Diego studying Data Science and Math-Economics, looking to break into the field of Quantitative Finance.
 
-I am actively looking for research and internship opportunities. To get a copy of my current resume, please [reach out to me](mailto:contact@cartertran.com).
+I am actively looking for internship opportunities. To get a copy of my current resume, please [reach out to me](mailto:contact@cartertran.com).
